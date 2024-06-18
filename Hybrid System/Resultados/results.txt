@@ -1,0 +1,5 @@
+Os resultados são identificados por dataset - porcentagem de missing data - técnica de imputação. 
+Em cada pasta haverá: 
+	- "figs" com os gráficos da predição dos modelos. 
+	- "csv" com as métricas dos modelos.
+	- "dict" com as informações do treinamento. 
